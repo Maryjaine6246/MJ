@@ -61,7 +61,8 @@ p{
 }
 
 ul{
-	font: 20px/2 trebuchet ms, sans-serif;
+	font: 20px/2 'Voltaire', sans-serif;
+	list-style: circle;
 }
 
 img{
@@ -81,10 +82,23 @@ h2, h3, h4, h5, h6{
 }
 
 #bio{
-	-moz-column-count: 2;
+	-moz-column-count: 3;
 	-moz-column-gap: 20px;
-	text-align: justify;
+	text-align: left;
 	padding: 10px 0;
 	
+}
+
+#gallery ul{
+list-style-type: none;
+width: 840px;
+margin: 20px auto;
+overflow: hidden;
+padding: 5px;
 	
+}
+
+#gallery li{
+	float: left;
+	margin-left: 20px:
 }

@@ -1,3 +1,46 @@
 body{
-	background-color: red;
+	color: #fff;
+	font: 16px/2 "helvetica neue",Arial,Helvetica,sans-serif;
+	width: 840px;
+	margin: 0 auto;
+	background-color: #000;
+	background-image: url(../images/wallpaper.jpg);
 }
+
+nav ul{
+	width: 300px;
+	margin: 0 auto;
+	background: #000;
+	list-style-type: none;
+	padding: 0;
+	border-color: #fff;
+}
+
+nav li{
+	width: 100px;
+	background: #000;
+	float: left;
+	overflow: hidden;
+	
+}
+
+nav a{
+	text-decoration: none;
+	display: block;
+	height: 40px,
+	line-height: 40px;
+	text-align: center;
+	color: #800
+	
+}
+
+nav a:hover{
+	color: #000;
+	background: #800;
+}
+
+
+h1{	
+	clear: left;
+}
+

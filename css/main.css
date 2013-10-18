@@ -159,10 +159,8 @@ wrapper{
 }
 
 	@media screen and(min-width:768px)and(max-width:959px){
-	p{ 
+	#bio{ 
 		-moz-column-count: 1;
-		-o-column-count: 1;
-		-webkit-column-count:1;
 		column-count: 1;
 	}
 }

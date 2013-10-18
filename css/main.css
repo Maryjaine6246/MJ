@@ -166,5 +166,5 @@ wrapper{
 }
 
 	@media only screen and(max-width:479px){
-	#bio{-moz-column-count: none;-moz-column-gap: none;}
+	#bio{-moz-column-count: 1;}
 }

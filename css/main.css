@@ -1,7 +1,7 @@
 body{
 	color: #fff;
 	font: 100%/2'Yellowtail', cursive;
-	width: 840px;
+	width: 87.5%; /*840px*/
 	margin: 0 auto;
 	background-color: #000;
 	background-image: url(../images/wallpaper.jpg);

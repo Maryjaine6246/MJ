@@ -7,9 +7,7 @@ body{
 	background-image: url(../images/wallpaper.jpg);
 }
 
-wrapper{
-	width: 92.5%; /*740px*/
-}
+
 
 nav ul{
 	width: 35.714285714286%; /*300px*/
@@ -154,6 +152,10 @@ div{
 }
 img{
  max-width: 100%;
+}
+
+wrapper{
+	width: 92.5%; /*740px*/
 }
 
 	@media screen and(min-width:768px)and(max-width:959px){

@@ -159,6 +159,9 @@ wrapper{
 }
 
 	@media screen and (min-width: 768px) and (max-width: 959px){
+	body{
+		font: 1.25em/2 'Voltaire', sans-serif;
+	}
 	
 }
 
@@ -178,8 +181,6 @@ wrapper{
 		-webkit-column-count:1;
 		column-count: 1;
 	}
-	h1{
-		color: blue;
-	}
+	
 	
 }

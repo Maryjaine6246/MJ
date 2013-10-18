@@ -7,6 +7,9 @@ body{
 	background-image: url(../images/wallpaper.jpg);
 }
 
+wrapper{
+	width: 92.5%; /*740px*/
+
 nav ul{
 	width: 35.714285714286%; /*300px*/
 	margin: 0 auto;

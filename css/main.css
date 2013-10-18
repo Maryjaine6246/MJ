@@ -195,6 +195,9 @@ wrapper{
 	img{
 		display: none;
 	}
+	#gallery{
+		display: none;
+	}
 	
 	
 }

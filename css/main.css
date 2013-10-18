@@ -103,7 +103,8 @@ h2, h3, h4, h5, h6{
 
 #gallery li{
 	float: left;
-	
+	list-style-type: none;
+	text-decoration: none;
 }
 
 div{

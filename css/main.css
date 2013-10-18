@@ -192,6 +192,9 @@ wrapper{
 	body{
 		font: 1em/2 'Voltaire', sans-serif;
 	}
+	img{
+		display: none;
+	}
 	
 	
 }

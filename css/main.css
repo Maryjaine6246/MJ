@@ -175,7 +175,8 @@ td{
 
 .form{
 	font: 1em/2 'Voltaire', sans-serif;
-    float: right;
+    text-align: center;
+    margin: 0 auto;
 }
 
 wrapper{

@@ -159,11 +159,17 @@ img{
 table{
 	border: 2px solid #000;
 	font: 1em/2 'Voltaire', sans-serif;
+	color: #000;
+	background-color: #fff;
+	padding: 0.3em;
+
 }
 
 td{
 	border: 2px solid #000;
 	font: 1em/2 'Voltaire', sans-serif;
+	background-color: #000;
+	padding: 0.3em;
 }
 
 wrapper{

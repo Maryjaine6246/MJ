@@ -201,5 +201,12 @@ wrapper{
 		display: none;
 	}
 	
+table{
+	border: 2px solid #000
+}
+
+tr{
+	border: 2px solid #000
+}	
 	
 }

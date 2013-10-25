@@ -204,10 +204,14 @@ img{
 	
 table{
 	border: 2px solid #000;
+	font: 1em/2 'Voltaire', sans-serif;
+
 }
 
 td{
 	border: 2px solid #000;
+	font: 1em/2 'Voltaire', sans-serif;
+
 }
 	
 	

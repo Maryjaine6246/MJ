@@ -173,6 +173,11 @@ td{
 	color: #fff
 }
 
+.form{
+	font: 1em/2 'Voltaire', sans-serif;
+    float: left;
+}
+
 wrapper{
 	width: 92.5%; /*740px*/
 }

@@ -172,34 +172,35 @@ wrapper{
 	}
 }
 
-	@media only screen and (min-width: 480px) and (max-width: 767px){
-	#bio{ 
-		-moz-column-count: 1;
-		-o-column-count: 1;
-		-webkit-column-count:1;
-		column-count: 1;
-	}
-	body{
-		font: 1em/2 'Voltaire', sans-serif;
-	}
+@media only screen and (min-width: 480px) and (max-width: 767px){
+#bio{ 
+	-moz-column-count: 1;
+	-o-column-count: 1;
+	-webkit-column-count:1;
+	column-count: 1;
+}
+body{
+	font: 1em/2 'Voltaire', sans-serif;
 }
 
-	@media only screen and (max-width: 479px){
-	#bio{ 
-		-moz-column-count: 1;
-		-o-column-count: 1;
-		-webkit-column-count:1;
-		column-count: 1;
-	}
-	body{
-		font: 1em/2 'Voltaire', sans-serif;
-	}
-	img{
-		display: none;
-	}
-	#gallery{
-		display: none;
-	}
+
+@media only screen and (max-width: 479px){
+#bio{ 
+	-moz-column-count: 1;
+	-o-column-count: 1;
+	-webkit-column-count:1;
+	column-count: 1;
+}
+body{
+	font: 1em/2 'Voltaire', sans-serif;
+}
+img{
+	display: none;
+}
+#gallery{
+	display: none;
+}
+}
 	
 table{
 	border: 2px solid #000;
@@ -207,5 +208,6 @@ table{
 
 td{
 	border: 2px solid #000;
-}	
+}
+	
 	

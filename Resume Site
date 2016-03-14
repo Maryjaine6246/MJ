@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<title>Kelli Dennis</title>
+<meta charset="iso-8859-1">
+<link rel="stylesheet" href="styles/layout.css" type="text/css">
+
+</head>
+<body>
+<div class="wrapper row1">
+  <header id="header" class="clear">
+    <div id="hgroup">
+      <h1><a href="#"></a></h1>
+      <h2></h2>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="#">My Resume</a></li>
+        <li><a href="#">Text Link</a></li>
+        <li><a href="#">Text Link</a></li>
+        <li><a href="#">Text Link</a></li>
+        <li class="last"><a href="#">Text Link</a></li>
+      </ul>
+    </nav>
+  </header>
+</div>
+<!-- content -->
+<div class="wrapper row2">
+  <div id="container" class="clear">
+    <!-- Slider -->
+    <section id="slider" class="clear">
+      <figure><img src="images/demo/630x300.gif" alt="">
+        <figcaption>
+          <h2>About Me</h2>
+          <p>Paired with my interest in web development and software quality assurance, I am very passionate about building amazing user quality applications and web sites. I feel that all software, no matter the platform can be beautiful and useful at the same time.
+</p>
+          <footer class="more"><a href="#">Read More &raquo;</a></footer>
+        </figcaption>
+      </figure>
+    </section>
+    <!-- main content -->
+    <div id="homepage">
+      <!-- services area -->
+      <section id="services" class="clear">
+        <!-- article 1 -->
+        <article class="one_third">
+          <h2></h2>
+          <img src="https://wasin.io/wp-content/uploads/2015/05/showimage.png" alt="">
+          <p></p>
+         
+        </article>
+        <!-- article 2 -->
+        <article class="one_third">
+          <h2></h2>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Unofficial_JavaScript_logo.svg/480px-Unofficial_JavaScript_logo.svg.png" alt="">
+          <p></p>
+         
+        </article>
+        <!-- article 3 -->
+        <article class="one_third lastbox">
+          <h2></h2>e
+          <img src="https://www.apicasystem.com/wp-content/uploads/2014/06/IDE_2-Copy.png" alt="">
+          <p></p>
+         
+        </article>
+      </section>
+      <!-- / services area -->
+      <!-- ########################################################################################## -->
+      <!-- ########################################################################################## -->
+      <!-- ########################################################################################## -->
+      <!-- ########################################################################################## -->
+      <!-- One Quarter -->
+     
+      <!-- / One Quarter -->
+    </div>
+    <!-- / content body -->
+  </div>
+</div>
+<!-- Footer -->
+<div class="wrapper row3">
+  <footer id="footer" class="clear">
+  
+  </footer>
+</div>
+</body>
+</html>
